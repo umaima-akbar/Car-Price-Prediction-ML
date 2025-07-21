@@ -1,6 +1,6 @@
 # 📊 Car Price Prediction – ML Project
 
-This project builds a machine learning model to predict the resale value of cars in India using features like year, fuel type, kms driven, transmission, and present price.
+This project builds a machine learning model to predict the resale value of cars in India using features like year, fuel type, kms driven, transmission and present price.
 
 __________________________________
 
